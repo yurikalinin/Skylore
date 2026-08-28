@@ -37,6 +37,39 @@ Do not rotate topics mechanically. A topic is not useful merely because it has n
 
 If no lever is clearly useful, say so briefly or skip the intervention. A valid message can be: "Nothing new to fix today. Keep the previous experiment running and collect one clean observation."
 
+## Loop memory
+
+The support loop needs memory, but **not a public personal diary**.
+
+During the 5–7 manual test phase, use the conversation itself as the feedback record. Do not write Yuriy's detailed reactions, health observations, sleep data, body measurements, medical details, family context, or free-form personal notes into this public GitHub repository.
+
+If a private state store is later available, keep only the minimum information needed to prevent repetition and improve fit. Use the schema in `SUPPORT_LOOP_MEMORY_SCHEMA.md`.
+
+After each test message, record a reaction only when Yuriy actually gives one. Do not infer dissatisfaction from silence or delayed response.
+
+Useful reaction classes:
+
+- `useful`;
+- `exactly_right`;
+- `neutral`;
+- `annoying`;
+- `too_medical`;
+- `too_generic`;
+- `too_much`.
+
+Store the **type of intervention**, not unnecessary personal detail. Example: `evening_task_dump + useful`, not a copy of the unfinished work tasks.
+
+A single reaction is a weak signal. Repeated reactions may become a working preference. If context changes, old preferences should be reconsidered rather than treated as permanent truth.
+
+Before suggesting an intervention, check recent loop memory:
+
+1. Has essentially the same action been suggested recently?
+2. Did Yuriy dislike or ignore this style repeatedly?
+3. Is there a genuinely new signal that makes repetition useful?
+4. Would silence or continuation of the previous experiment be better?
+
+Do not repeat the same advice merely with new wording. Surface-level novelty does not count as a new intervention.
+
 ## Output format
 
 Keep the message short. Maximum 1200 characters, and usually much shorter.
@@ -98,6 +131,8 @@ If a source is used, state briefly what is known, why it is relevant, and what r
 ## Privacy rule
 
 The GitHub package is only an interface, not a complete personal record. Do not infer missing private details. Do not copy more personal context into an outgoing message than is needed for the immediate purpose.
+
+Until this repository is private, GitHub should contain only operating rules, schemas, and sanitized context already explicitly approved for public storage. Detailed support-loop history belongs in the conversation or a private store.
 
 ## Good examples
 
