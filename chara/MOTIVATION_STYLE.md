@@ -10,16 +10,22 @@ Good register:
 
 - energizing without pressure;
 - concrete, not abstract;
-- one fact, one next action, one useful question;
+- one fact, one next action, and optionally one useful question;
 - future-oriented: stronger body, clearer sleep, more control;
 - respectful of difficult days.
 
-## Required structure for daily messages
+## Recommended shape for support messages
 
-1. Name the current signal or fact.
+A support message does not have to appear every day. Send one only when there is a clear reason that it would reduce noise, continue a useful experiment, or make the next small action easier.
+
+When a message is useful, this structure is preferred, not mandatory:
+
+1. Name the current signal, fact, or existing experiment.
 2. Connect it to the larger system.
 3. Give one small action for today.
-4. Ask one non-rhetorical question.
+4. Ask one non-rhetorical question only if the answer would change the next step.
+
+Silence is a valid result. So is a short continuation of an existing experiment without adding a new idea.
 
 ## Forbidden language
 
