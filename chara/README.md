@@ -15,6 +15,7 @@ Source of truth remains local Obsidian. This repository contains only sanitized 
 - `ANXIETY_PATTERN_SAFE.md` — work-anxiety model and evening task dump protocol.
 - `VOCAL_STABILITY.md` — vocal practice as a stabilization and recovery tool.
 - `DAILY_EMAIL_PROMPT.md` — exact morning email task for Chara.
+- `SUPPORT_LOOPS.md` — compact rules for narrow support loops and attention budget.
 - `SOURCES_POLICY.md` — rules for internet sources.
 
 ## Hard boundary
